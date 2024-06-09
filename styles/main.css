@@ -59,7 +59,7 @@ body {
     background: #5051f9;
 }
 
-.menu__item_active:img {
+.menu__item_active img {
     filter: brightness(0) invert(1);
 }
 
